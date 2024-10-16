@@ -1,0 +1,53 @@
+
+#a1{
+    color: aliceblue;
+    font-style: italic;
+}
+#a2{
+    color: aliceblue;
+    font-style: italic;
+}
+#a3{
+    color: aliceblue;
+    font-style: italic;
+}
+#b1{
+    color: black;
+    font-family: "Playwrite MX", cursive; ;
+}
+
+#c1{
+    color: #690362;
+}
+#c2{
+    color: black;
+    font-family: cursive;
+}
+#c3{
+    color: #690362;
+    font-family: "Open Sans", sans-serif;
+}
+
+#d1{
+    color: darkslategrey;
+}
+#d2{
+    color: darkgrey;
+}
+.rr{
+    height: 230px;
+    width: 300px;
+    background-color: rgb(250, 245, 245);
+    color: hwb(204 7% 28%);
+    text-align: center;
+    text color: 97109E ;
+    margin: 3%;
+    padding: 3px;
+    border-width: 5px;
+    box-shadow: 10px 15px 20px gray;
+    
+    flex-wrap:wrap ;
+    justify-content: center;
+    
+
+}

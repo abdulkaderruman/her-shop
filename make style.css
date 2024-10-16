@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image:url(aa.jpg) ;
+    background-position: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.topbarmain{
+    background: rgba(0,0,0,0.4);
+    padding: 15px 0;
+}
+.alignment{
+   width: 90%;
+   margin: 0 auto;
+}
+
+.topbarM{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.topcon1 ul{
+display: flex;
+gap: 15px;
+}
+
+.topcon1 ul li:hover{
+    color: brown;
+}
+
+.topcon2 ul{
+    display: flex;
+    gap: 15px;
+}
+a, a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.topcon2 ul li a:hover{
+    color: brown;
+}
+.mainbar{
+    background: rgba(65,60,65,0.4);
+}
+
+,.alignment{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.mainmenu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.menu2 ul{
+ display: flex;
+ gap: 15px;
+ font-size: 24px;
+ 
+}
+
+.menu2 ul li a:hover{
+    color: hsl(193, 79%, 44%);
+}
+
+
+.alignment{
+   width: 90%;
+   margin: 0 auto; 
+}
+.homecon h1{
+    color: hwb(336 31% 17%);
+    font-size: 30px;
+    font-weight: 800px;
+    float: right;
+    margin-top: 50px;
+}
+
+/* .pic1{
+    box-sizing: border-box;
+    border: 2 solid palevioletred;
+
+} */
+
+.tablediv{
+    padding-left: 45px;
+    padding-top: 30px;
+
+}
